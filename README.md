@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 I'm **Vishal Jha**, a passionate full-stack developer from **Jabalpur**, India 🇮🇳.  
-I specialize in building smart, scalable web applications using the **MERN stack**, and I love exploring the power of **AI** to enhance developer workflows. Currently working on tools that bring automation and intelligence to the browser.
+I specialize in building smart, scalable web applications using the **MERN stack**, Currently working on tools that bring automation and intelligence to the browser.
 
 ---
 
@@ -50,14 +50,6 @@ I specialize in building smart, scalable web applications using the **MERN stack
 
 ---
 
-### 🤖 Coming Soon: *OpenAI Chatbot for Learning*
-> An educational chatbot designed to help developers learn concepts interactively.
-
-- Uses OpenAI API to explain code
-- Handles programming questions across multiple languages
-- Built for devs, by a dev
-
----
 
 ## 📈 GitHub Stats
 
